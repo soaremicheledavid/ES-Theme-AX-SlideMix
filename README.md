@@ -35,11 +35,11 @@ A mix of different styles, colors, to create something unique, simple, light, be
 
 # Black Style :
 
+![Captură de ecran 2024-03-03 170716](https://github.com/soaremicheledavid/ES-Theme-AX-SlideMix/assets/157101299/6b65b634-f7a2-4fc8-9ce3-0ed7abcab931)
 
-![Captură de ecran 2024-03-03 161650](https://github.com/soaremicheledavid/ES-Theme-AX-SlideMix/assets/157101299/cfaaa1ac-da19-4b8a-9f3e-0470d3929e48)
 
+![Captură de ecran 2024-03-03 170710](https://github.com/soaremicheledavid/ES-Theme-AX-SlideMix/assets/157101299/5eafced3-cc83-48ca-9fd9-464351b0cab1)
 
-![Captură de ecran 2024-03-03 161717](https://github.com/soaremicheledavid/ES-Theme-AX-SlideMix/assets/157101299/08f4521d-7697-48bf-a2b0-d49b9a9308d6)
 
 ## **Acknowledgments**
 Used screenshots for systems : https://www.skraper.net/
