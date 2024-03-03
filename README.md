@@ -23,14 +23,6 @@ A mix of different styles, colors, to create something unique, simple, light, be
 
 # Screenshots :
 
-# Black Style :
-
-
-![Captură de ecran 2024-03-03 161650](https://github.com/soaremicheledavid/ES-Theme-AX-SlideMix/assets/157101299/cfaaa1ac-da19-4b8a-9f3e-0470d3929e48)
-
-
-![Captură de ecran 2024-03-03 161717](https://github.com/soaremicheledavid/ES-Theme-AX-SlideMix/assets/157101299/08f4521d-7697-48bf-a2b0-d49b9a9308d6)
-
 # White Style :
 
 
@@ -39,6 +31,15 @@ A mix of different styles, colors, to create something unique, simple, light, be
 
 ![Captură de ecran 2024-03-03 161830](https://github.com/soaremicheledavid/ES-Theme-AX-SlideMix/assets/157101299/a45b2a3b-bef0-4441-bb15-09aeb9fe078d)
 
+
+
+# Black Style :
+
+
+![Captură de ecran 2024-03-03 161650](https://github.com/soaremicheledavid/ES-Theme-AX-SlideMix/assets/157101299/cfaaa1ac-da19-4b8a-9f3e-0470d3929e48)
+
+
+![Captură de ecran 2024-03-03 161717](https://github.com/soaremicheledavid/ES-Theme-AX-SlideMix/assets/157101299/08f4521d-7697-48bf-a2b0-d49b9a9308d6)
 
 ## **Acknowledgments**
 Used screenshots for systems : https://www.skraper.net/
