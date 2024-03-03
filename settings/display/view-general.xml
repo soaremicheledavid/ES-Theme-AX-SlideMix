@@ -101,7 +101,7 @@ Author: SMD © 2024
     <textlist name="gamelist">
       <pos>0 0.2</pos>      <!-- 480x320 / 0x 64y -->
       <horizontalMargin>0.033333</horizontalMargin>      <!-- 16px -->
-
+      <scrollSound>./sounds/scroll.wav</scrollSound>
       <lineSpacing>1.55</lineSpacing>
       <lineSpacing ifHelpPrompts="true">1.6</lineSpacing>
       <lineSpacing ifHelpPrompts="true" ifSubset="FontSize:small">1.675</lineSpacing>

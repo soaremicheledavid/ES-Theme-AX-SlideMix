@@ -51,7 +51,7 @@ We do this for free, dont forget to say thanks!
   <subset name="Ratio" displayName="Screen ratio">
     <include name="wallpapers" ifArch="RG35XX Plus" displayName="4:3 (Default)" />
 
-
+<scrollSound>./sounds/scroll.wav</scrollSound>
 
     <include name="wallpapers" ifNotArch="handheld,RG35XX Plus" displayName="4:3" />
 

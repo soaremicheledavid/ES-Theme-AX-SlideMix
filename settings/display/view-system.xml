@@ -13,7 +13,7 @@ Author: SMD © 2024
       <pos>0.5 0</pos>
       <defaultTransition>fade</defaultTransition>
       <systemInfoDelay>300</systemInfoDelay>
-
+      <scrollSound>./sounds/scroll.wav</scrollSound>
       <size>1.1 1</size>
       <size ifSubset="Ratio:ratio53">1.2 1</size>
 
