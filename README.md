@@ -1,4 +1,5 @@
-# ES-Theme-AX-SlideMix
+# ES-Theme-AX-SlideMix 
+A mix of different styles, colors, to create something unique, simple, light, beautiful. This was made for my RG35XX Plus, for batocera system.
 
 # Colors :
 - Purple;
@@ -8,7 +9,7 @@
 - Yellow;
 
 # Aspect Ratio :
-- 4/3 (Handheld Consoles)
+- 4/3 (Handheld Consoles);
   
 # Gamelist View Style :
 - Basic;
