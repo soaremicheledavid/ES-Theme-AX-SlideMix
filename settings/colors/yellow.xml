@@ -1,0 +1,20 @@
+<!--
+Theme: AX-SlideMix
+Author: SMD © 2024
+-->
+
+<theme>
+  <formatVersion>7</formatVersion>
+
+  <variables>
+    <mainColor>F9C440</mainColor>
+    <onMainColor>3272d1</onMainColor>
+
+    <bgColor ifSubset="Style:dark">1D1B16</bgColor>
+    <bgColor ifSubset="Style:light">FFFDEB</bgColor>
+
+    <sectColor ifSubset="Style:dark">3272d1</sectColor>
+    <sectColor ifSubset="Style:light">1d77ff</sectColor>
+  </variables>
+
+</theme>
