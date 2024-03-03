@@ -8,6 +8,10 @@ A mix of different styles, colors, to create something unique, simple, light, be
 - Orange;
 - Yellow;
 
+# Style :
+- Black;
+- White;
+
 # Aspect Ratio :
 - 4/3 (Handheld Consoles);
   
@@ -19,11 +23,16 @@ A mix of different styles, colors, to create something unique, simple, light, be
 
 # Screenshots :
 
+Black Style :
 ![Captură de ecran 2024-03-03 161650](https://github.com/soaremicheledavid/ES-Theme-AX-SlideMix/assets/157101299/cfaaa1ac-da19-4b8a-9f3e-0470d3929e48)
+
 
 ![Captură de ecran 2024-03-03 161717](https://github.com/soaremicheledavid/ES-Theme-AX-SlideMix/assets/157101299/08f4521d-7697-48bf-a2b0-d49b9a9308d6)
 
+White Style :
+
 ![Captură de ecran 2024-03-03 161819](https://github.com/soaremicheledavid/ES-Theme-AX-SlideMix/assets/157101299/c05e34e7-8602-441c-8c32-7cb77bf0db82)
+
 
 ![Captură de ecran 2024-03-03 161830](https://github.com/soaremicheledavid/ES-Theme-AX-SlideMix/assets/157101299/a45b2a3b-bef0-4441-bb15-09aeb9fe078d)
 
