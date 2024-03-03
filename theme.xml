@@ -11,17 +11,17 @@ We do this for free, dont forget to say thanks!
   <include>./variables.xml</include>
 
   <subset name="Style" displayName="Style">
-    <include name="dark" displayName="Black" />
     <include name="light" displayName="White" />
+    <include name="dark" displayName="Black" />
   </subset>
 
   <subset name="Color scheme" displayName="Color scheme">
-    <include name="purple" displayName="purple">./settings/colors/purple.xml</include>
+    <include name="yellow" displayName="yellow">./settings/colors/yellow.xml</include>
     <include name="blue" displayName="blue">./settings/colors/blue.xml</include>
+    <include name="purple" displayName="purple">./settings/colors/purple.xml</include>
     <include name="red" displayName="red">./settings/colors/red.xml</include>
     <include name="orange" displayName="orange">./settings/colors/orange.xml</include>
     <include name="green" displayName="green">./settings/colors/green.xml</include>
-    <include name="yellow" displayName="yellow">./settings/colors/yellow.xml</include>
 
   </subset>
 

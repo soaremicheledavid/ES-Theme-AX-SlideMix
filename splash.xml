@@ -7,7 +7,7 @@ Author: SMD © 2024
    <formatVersion>7</formatVersion>
    <view name="splash">
       <splash name="splash">
-         <backgroundColor>000000</backgroundColor>
+         <backgroundColor>FFFFFF</backgroundColor>
       </splash>
       <image name="background">
          <origin>0 0</origin>
