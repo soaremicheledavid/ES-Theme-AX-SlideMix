@@ -10,19 +10,23 @@ Author: SMD © 2024
   <view name="menu">
     <menuText name="menutext">
       <fontPath>${fontRegular}</fontPath>
-      <fontSize>0.038</fontSize>
-
+      <fontSize>${fontSizeBody-medium}</fontSize>
+      <fontSize ifSubset="FontSize:large">${fontSizeBody-large}</fontSize>
+      <fontSize ifSubset="FontSize:small">${fontSizeBody-small}</fontSize>
     </menuText>
 
+    <menuTextSmall name="menutextsmall">
       <fontPath>${fontLight}</fontPath>
-      <fontSize>0.02</fontSize>
-
+      <fontSize>${fontSizeCaption-medium}</fontSize>
+      <fontSize ifSubset="FontSize:large">${fontSizeCaption-large}</fontSize>
+      <fontSize ifSubset="FontSize:small">${fontSizeCaption-small}</fontSize>
     </menuTextSmall>
 
     <menuGroup name="menugroup">
       <fontPath>${fontRegular}</fontPath>
-      <fontSize>0.220</fontSize>
-
+      <fontSize>${fontSizeCaption-medium}</fontSize>
+      <fontSize ifSubset="FontSize:large">${fontSizeCaption-large}</fontSize>
+      <fontSize ifSubset="FontSize:small">${fontSizeCaption-small}</fontSize>
     </menuGroup>
 
     <menuText name="menutitle">
@@ -34,9 +38,10 @@ Author: SMD © 2024
 
     <menuBackground name="menubg">
       <fadePath>./assets/fade.png</fadePath>
+      <path ifSubset="Ratio:ratio32">./assets/ratio32/menu.png</path>
       <path ifSubset="Ratio:wallpapers">./assets/wallpapers/menu.png</path>
+      <path ifSubset="Ratio:ratio53">./assets/ratio53/menu.png</path>
       <size>1 1</size>
-      <cornerSize>32 32</cornerSize>
     </menuBackground>
 
     <menuButton name="menubutton">
