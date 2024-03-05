@@ -10,7 +10,7 @@ Author: SMD © 2024
   <view name="menu">
     <menuText name="menutext">
       <fontPath>${fontRegular}</fontPath>
-      <fontSize>0.0347</fontSize>
+      <fontSize>0.039</fontSize>
 
     </menuText>
 
