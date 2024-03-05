@@ -10,33 +10,29 @@ Author: SMD © 2024
   <view name="menu">
     <menuText name="menutext">
       <fontPath>${fontRegular}</fontPath>
-      <fontSize>0.038</fontSize>
+      <fontSize>0.0347</fontSize>
 
     </menuText>
 
+    <menuTextSmall name="menutextsmall">
       <fontPath>${fontLight}</fontPath>
       <fontSize>0.02</fontSize>
-
     </menuTextSmall>
 
     <menuGroup name="menugroup">
       <fontPath>${fontRegular}</fontPath>
-      <fontSize>0.220</fontSize>
-
+      <fontSize>${fontSizeCaption-medium}</fontSize>
     </menuGroup>
 
     <menuText name="menutitle">
       <fontPath>${fontBold}</fontPath>
-      <fontSize>${fontSizeH2-medium}</fontSize>
-      <fontSize ifSubset="FontSize:large">${fontSizeH2-large}</fontSize>
-      <fontSize ifSubset="FontSize:small">${fontSizeH2-small}</fontSize>
+      <fontSize>0.046</fontSize>
     </menuText>
 
     <menuBackground name="menubg">
       <fadePath>./assets/fade.png</fadePath>
       <path ifSubset="Ratio:wallpapers">./assets/wallpapers/menu.png</path>
       <size>1 1</size>
-      <cornerSize>32 32</cornerSize>
     </menuBackground>
 
     <menuButton name="menubutton">
