@@ -69,10 +69,7 @@ Author: SMD © 2024
     </image>
 
     <image name="cover_list" extra="true" ifSubset="Background Style:custom">
-      <path>./customBackground/${system.theme}.jpg</path>
-      <path>./customBackground/${system.theme}.jpeg</path>
-      <path>./customBackground/${system.theme}.png</path>
-      <path>./customBackground/${system.theme}.webp</path>
+    <path>./assets/systems/games.jpg</path>
 
       <path>./customBackground/general.jpg</path>
       <path>./customBackground/general.jpeg</path>
