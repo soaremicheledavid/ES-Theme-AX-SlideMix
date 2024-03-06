@@ -116,9 +116,7 @@ Author: SMD © 2024
     </rating>
 
     <image name="custom_bg_fg" extra="true">
-      <path>./assets/ratio32/gamelist-video.png</path>
       <path ifSubset="Ratio:wallpapers">./assets/wallpapers/gamelist-video.png</path>
-      <path ifSubset="Ratio:ratio53">./assets/ratio53/gamelist-video.png</path>
       <size>1 1</size>
       <origin>0 0</origin>
       <pos>0 0</pos>
