@@ -128,17 +128,18 @@ Author: SMD © 2024
     </image>
 
     <image name="cover" extra="true" ifSubset="Background Style:custom">
-      <path>./customBackground/${system.theme}.jpg</path>
-      <path>./customBackground/${system.theme}.jpeg</path>
-      <path>./customBackground/${system.theme}.png</path>
-      <path>./customBackground/${system.theme}.webp</path>
+      <path>./assets/systems/games.jpg</path>
+      <path>./assets/systems/games.jpg</path>
+      <path>./assets/systems/games.jpg</path>
+      <path>./assets/systems/games.jpg</path>
     </image>
 
     <image name="cover_general" extra="true" ifSubset="Background Style:custom">
-      <path>./customBackground/general.jpg</path>
-      <path>./customBackground/general.jpeg</path>
-      <path>./customBackground/general.png</path>
-      <path>./customBackground/general.webp</path>
+      <path>./assets/systems/games.jpg</path>
+      <path>./assets/systems/games.jpg</path>
+      <path>./assets/systems/games.jpg</path>
+      <path>./assets/systems/games.jpg</path>
+
       <size>1 0</size>
       <origin>0 0.5</origin>
       <pos>0 0.25</pos>
