@@ -37,8 +37,8 @@ We do this for free, dont forget to say thanks!
   </subset>
 
   <subset name="Background Style" displayName="Background style">
-    <include name="custom" displayName="Custom" />
     <include name="random" displayName="Random" />
+    <include name="custom" displayName="Custom" />
   </subset>
 
   <subset name="Status Bar" displayName="Status Bar">
