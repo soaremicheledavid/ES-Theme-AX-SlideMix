@@ -78,7 +78,6 @@ We do this for free, dont forget to say thanks!
   <include>./settings/display/view-basic.xml</include>
   <include>./settings/display/view-detailed.xml</include>
   <include>./settings/display/view-grid.xml</include>
-  <include>./settings/display/view-video.xml</include>
   <include>./settings/display/view-newstyle.xml</include>
   <include>./settings/display/view-menu.xml</include>
 
