@@ -134,7 +134,7 @@ Author: SMD © 2024
     </textlist>
 
     <image name="md_image">
-      <pos>0.733333 0.525</pos>      <!-- 480x320 / (240 + maxWidth / 2 = 352)x (80 + maxHeight / 2 = 168)y -->
+      <pos>0.733333 0.460</pos>      <!-- 480x320 / (240 + maxWidth / 2 = 352)x (80 + maxHeight / 2 = 168)y -->
       <origin>0.5 0.5</origin>
       <maxSize>0.530 0.722222222222222</maxSize>      <!-- 480x320 / 224x 176y -->
       <zIndex>5</zIndex>
