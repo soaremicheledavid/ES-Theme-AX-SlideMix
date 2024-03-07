@@ -62,7 +62,9 @@ Author: SMD © 2024
       <pos ifSubset="Ratio:wallpapers">0.08333 0.375</pos>      <!-- 480x320 / 48x 104y -->
       <size>0.866667 ${fontSizeH1-medium}</size>      <!-- 480x320 / 416x -->
       <fontPath>${fontBold}</fontPath>
-
+      <color>ffffff</color>
+      <glowColor>0a0a0a</glowColor>
+      <glowSize>1.6</glowSize>
       <fontSize>${fontSizeH1-medium}</fontSize>
       <fontSize ifSubset="FontSize:large">${fontSizeH1-large}</fontSize>
       <fontSize ifSubset="FontSize:small">${fontSizeH1-small}</fontSize>
@@ -82,6 +84,10 @@ Author: SMD © 2024
       <fontSize>${fontSizeBody-medium}</fontSize>
       <fontSize ifSubset="FontSize:large">${fontSizeBody-large}</fontSize>
       <fontSize ifSubset="FontSize:small">${fontSizeBody-small}</fontSize>
+      
+      <color>ffffff</color>
+      <glowColor>0a0a0a</glowColor>
+      <glowSize>1.6</glowSize>
 
       <alignment>left</alignment>
       <forceUppercase>0</forceUppercase>
@@ -189,6 +195,10 @@ Author: SMD © 2024
     <batteryIndicator name="batteryIndicator">
       <pos>0.93 0.0125</pos>      <!-- 480x320 / 456x (from right to left) 4y-->
       <size>0.05</size>      <!-- 16x 16y-->
+      <color>ffffff</color>
+      <glowColor>0a0a0a</glowColor>
+      <glowSize>1.6</glowSize>
+
       <visible ifSubset="Status Bar:hidden|clock">false</visible>
       <itemSpacing>0.008333333</itemSpacing>
 
@@ -228,6 +238,9 @@ Author: SMD © 2024
       <empty>./assets/icons/screen/72x72/battery=empty.svg</empty>
       <incharge>./assets/icons/screen/72x72/battery=charging.svg</incharge>
       <networkIcon>./assets/icons/screen/72x72/wifi=on.svg</networkIcon>
+      <color>ffffff</color>
+      <glowColor>0a0a0a</glowColor>
+      <glowSize>1.6</glowSize>
     </batteryIndicator>
 
     <controllerActivity name="controllerActivity">
